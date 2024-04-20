@@ -25,7 +25,7 @@ public class Jabaloc{
     int i=32;
     long l=64;
     float f=3.14f;
-    decimal d=3.1416;
+    double d=3.1416;
 
     System.out.println("Hola java");
   }
